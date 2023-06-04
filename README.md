@@ -43,7 +43,7 @@ To develop the GitHub Profile Readme Generator, follow these steps:
 12. Render the App component in the index.js file.
 13. Test the application and fix any bugs or issues.
 
-## Guide to Creating the Site with Full Code
+## Guide to Creating the Site
 
 To create the GitHub Profile Readme Generator, follow these steps:
 
